@@ -1,1 +1,2 @@
 # dark
+This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
