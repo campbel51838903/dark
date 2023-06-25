@@ -6,8 +6,6 @@ const path = require("path");
 const owner = 'NaiboWang';
 const repo = 'EasySpider';
 let config = fs.readFileSync(path.join(__dirname, `package.json`), 'utf8');
-config = JSON.parse(config);
-const version = config.version;
 console.log(`Current version is ${version}`);
 
 // 发送GET请求获取GitHub的Release API响应
